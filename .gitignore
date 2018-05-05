@@ -17,3 +17,7 @@
 
 /config/database.yml
 /config/secrets.yml
+
+# For Angular
+/public/*
+!/public/robots.txt
